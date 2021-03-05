@@ -33,3 +33,7 @@ h1 {
 
     background-color: rgb(80, 194, 137);
 }
+.score{
+    margin:40px auto;
+    text-align: center;
+}
